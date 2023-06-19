@@ -1,0 +1,170 @@
+\begin{thebibliography}{25}
+\providecommand{\biband}{和}
+\providecommand{\bibetal}{等}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Atlidakis {\bibetal}(2019)Atlidakis, Godefroid, and Polishchuk]{8811961}
+Atlidakis~V, Godefroid~P, Polishchuk~M.
+\newblock Restler: Stateful rest api fuzzing [C/OL]//\allowbreak
+2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE).
+\newblock 2019: 748-758.
+\newblock DOI: \doi{10.1109/ICSE.2019.00083}.
+
+\bibitem[Coder(2020)]{service}
+Coder.
+\newblock {Service Mesh \& API Gateway} [EB/OL].
+\newblock 2020.
+\newblock \url{https://cloud.tencent.com/developer/article/1628099}.
+
+\bibitem[Cui {\bibetal}(2020)Cui, Chen, and Yu]{9359175}
+Cui~J, Chen~P, Yu~G.
+\newblock {A Learning-based Dynamic Load Balancing Approach for Microservice Systems in Multi-cloud Environment} [C/OL]//\allowbreak
+2020 IEEE 26th International Conference on Parallel and Distributed Systems (ICPADS).
+\newblock 2020: 334-341.
+\newblock DOI: \doi{10.1109/ICPADS51040.2020.00052}.
+
+\bibitem[Dua {\bibetal}(2020)Dua, Randive, Agarwal, and Kumar]{9045136}
+Dua~A, Randive~S, Agarwal~A, et~al.
+\newblock {Efficient Load balancing to serve Heterogeneous Requests in Clustered Systems using Kubernetes} [C/OL]//\allowbreak
+2020 IEEE 17th Annual Consumer Communications \& Networking Conference (CCNC).
+\newblock 2020: 1-2.
+\newblock DOI: \doi{10.1109/CCNC46108.2020.9045136}.
+
+\bibitem[Ed-Douibi {\bibetal}(2018)Ed-Douibi, Izquierdo, and Cabot]{ed2018automatic}
+Ed-Douibi~H, Izquierdo~J~L~C, Cabot~J.
+\newblock Automatic generation of test cases for rest apis: A specification-based approach [C]//\allowbreak
+2018 IEEE 22nd international enterprise distributed object computing conference (EDOC).
+\newblock IEEE, 2018: 181-190.
+
+\bibitem[He {\bibetal}(2020)He, Tu, Liu, Xu, and Wang]{he2020optimal}
+He~X, Tu~Z, Liu~L, et~al.
+\newblock Optimal evolution planning and execution for multi-version coexisting microservice systems [C]//\allowbreak
+Service-Oriented Computing: 18th International Conference, ICSOC 2020, Dubai, United Arab Emirates, December 14--17, 2020, Proceedings 18.
+\newblock Springer, 2020: 3-18.
+
+\bibitem[Liu {\bibetal}(2020{\natexlab{a}})Liu, He, Tu, and Wang]{9284506}
+Liu~L, He~X, Tu~Z, et~al.
+\newblock {MV4MS: A Spring Cloud based Framework for the Co-Deployment of Multi-Version Microservices} [C/OL]//\allowbreak
+2020 IEEE International Conference on Services Computing (SCC).
+\newblock 2020{\natexlab{a}}: 194-201.
+\newblock DOI: \doi{10.1109/SCC49832.2020.00033}.
+
+\bibitem[Liu {\bibetal}(2020{\natexlab{b}})Liu, Haihong, and Song]{9112373}
+Liu~Q, Haihong~E, Song~M.
+\newblock {The Design of Multi-Metric Load Balancer for Kubernetes} [C/OL]//\allowbreak
+2020 International Conference on Inventive Computation Technologies (ICICT).
+\newblock 2020{\natexlab{b}}: 1114-1117.
+\newblock DOI: \doi{10.1109/ICICT48043.2020.9112373}.
+
+\bibitem[Mampage {\bibetal}(2022)Mampage, Karunasekera, and Buyya]{mampage2022holistic}
+Mampage~A, Karunasekera~S, Buyya~R.
+\newblock {A holistic view on resource management in serverless computing environments: Taxonomy and future directions} [J].
+\newblock ACM Computing Surveys (CSUR), 2022, 54\penalty0 (11s): 1-36.
+
+\bibitem[Neumann {\bibetal}(2018)Neumann, Laranjeiro, and Bernardino]{neumann2018analysis}
+Neumann~A, Laranjeiro~N, Bernardino~J.
+\newblock An analysis of public rest web service apis [J].
+\newblock IEEE Transactions on Services Computing, 2018, 14\penalty0 (4): 957-970.
+
+\bibitem[Nguyen {\bibetal}(2020)Nguyen and Kim]{9161999}
+Nguyen~N, Kim~T.
+\newblock Toward highly scalable load balancing in kubernetes clusters [J/OL].
+\newblock IEEE Communications Magazine, 2020, 58\penalty0 (7): 78-83.
+\newblock DOI: \doi{10.1109/MCOM.001.1900660}.
+
+\bibitem[Nguyen {\bibetal}(2022)Nguyen, Phan, and Kim]{s22082869}
+Nguyen~Q~M, Phan~L~A, Kim~T.
+\newblock {Load-Balancing of Kubernetes-Based Edge Computing Infrastructure Using Resource Adaptive Proxy} [J/OL].
+\newblock Sensors, 2022, 22\penalty0 (8).
+\newblock \url{https://www.mdpi.com/1424-8220/22/8/2869}.
+\newblock DOI: \doi{10.3390/s22082869}.
+
+\bibitem[Nuaimi {\bibetal}(2012)Nuaimi, Mohamed, Nuaimi, and Al-Jaroodi]{6472470}
+Nuaimi~K~A, Mohamed~N, Nuaimi~M~A, et~al.
+\newblock {A Survey of Load Balancing in Cloud Computing: Challenges and Algorithms} [C/OL]//\allowbreak
+2012 Second Symposium on Network Cloud Computing and Applications.
+\newblock 2012: 137-142.
+\newblock DOI: \doi{10.1109/NCCA.2012.29}.
+
+\bibitem[OpenAPI(2023)]{OpenAPI_Specification}
+OpenAPI.
+\newblock {OpenAPI Specification} [EB/OL].
+\newblock 2023.
+\newblock \url{https://github.com/OAI/OpenAPI-Specification}.
+
+\bibitem[Philcalcado(Aug 3, 2017)]{pattern_service}
+Philcalcado.
+\newblock {Pattern: Service Mesh} [EB/OL].
+\newblock Aug 3, 2017.
+\newblock \url{https://philcalcado.com/2017/08/03/pattern_service_mesh.html}.
+
+\bibitem[Sahana {\bibetal}(2023)Sahana, Kumaraswamy, Nachiketh, Navadeep, and Noronha]{sahana2023weight}
+Sahana~B, Kumaraswamy~T, Nachiketh~R, et~al.
+\newblock Weight based load balancing in kubernetes using aws [C]//\allowbreak
+2023 International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT).
+\newblock IEEE, 2023: 629-634.
+
+\bibitem[Shitole(2022)]{shitole2022dynamic}
+Shitole~A~S.
+\newblock Dynamic load balancing of microservices in kubernetes clusters using service mesh [D].
+\newblock Dublin, National College of Ireland, 2022.
+
+\bibitem[Song {\bibetal}(2018)Song, Zhang, and Haihong]{song2018auto}
+Song~M, Zhang~C, Haihong~E.
+\newblock {An auto scaling system for API gateway based on Kubernetes} [C]//\allowbreak
+2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS).
+\newblock IEEE, 2018: 109-112.
+
+\bibitem[Swagger(2023{\natexlab{a}})]{Swagger}
+Swagger.
+\newblock {Swagger} [EB/OL].
+\newblock 2023.
+\newblock \url{http://swagger.io/}.
+
+\bibitem[Swagger(2023{\natexlab{b}})]{Swagger-Codegen}
+Swagger.
+\newblock {Swagger-Codegen} [EB/OL].
+\newblock 2023.
+\newblock \url{http://swagger.io/tools/swagger-codegen/}.
+
+\bibitem[Swagger(2023{\natexlab{c}})]{Swagger-Inspector}
+Swagger.
+\newblock {Swagger-Inspector} [EB/OL].
+\newblock 2023.
+\newblock \url{http://swagger.io/tools/swagger-inspector/}.
+
+\bibitem[Veritas(2020)]{Docker}
+Veritas.
+\newblock {Container} [EB/OL].
+\newblock 2020.
+\newblock \url{https://www.veritas.com/zh/cn/information-center/containerization}.
+
+\bibitem[Zhang {\bibetal}(2019)Zhang, Marculescu, and Arcuri]{zhang2019resource}
+Zhang~M, Marculescu~B, Arcuri~A.
+\newblock Resource-based test case generation for restful web services [C]//\allowbreak
+Proceedings of the genetic and evolutionary computation conference.
+\newblock 2019: 1426-1434.
+
+\bibitem[Zhong {\bibetal}(2022)Zhong, Xu, Rodriguez, Xu, and Buyya]{zhong2022machine}
+Zhong~Z, Xu~M, Rodriguez~M~A, et~al.
+\newblock {Machine learning-based orchestration of containers: A taxonomy and future directions} [J].
+\newblock ACM Computing Surveys (CSUR), 2022, 54\penalty0 (10s): 1-35.
+
+\bibitem[Zhou {\bibetal}(2023)Zhou, Li, Wang, Qin, Miao, and Tian]{10077895}
+Zhou~J, Li~X, Wang~Q, et~al.
+\newblock Balancing load: An adaptive traffic management scheme for microservices [C/OL]//\allowbreak
+2022 IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS).
+\newblock 2023: 641-648.
+\newblock DOI: \doi{10.1109/ICPADS56603.2022.00089}.
+
+\end{thebibliography}

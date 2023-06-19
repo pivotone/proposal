@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+The style file: Biblio/gbt7714-author-year.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Biblio/ref.bib
+You've used 25 entries,
+            5319 wiz_defined-function locations,
+            1183 strings with 12586 characters,
+and the built_in function-call counts, 174768 in all, are:
+= -- 4097
+> -- 19757
+< -- 24374
++ -- 6739
+- -- 1279
+* -- 1477
+:= -- 24233
+add.period$ -- 92
+call.type$ -- 25
+change.case$ -- 145
+chr.to.int$ -- 5995
+cite$ -- 50
+duplicate$ -- 562
+empty$ -- 2259
+format.name$ -- 713
+if$ -- 45611
+int.to.chr$ -- 29
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 170
+num.names$ -- 100
+pop$ -- 9107
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 17991
+stack$ -- 0
+substring$ -- 8225
+swap$ -- 5
+text.length$ -- 350
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 399
+warning$ -- 0
+while$ -- 490
+width$ -- 0
+write$ -- 372
